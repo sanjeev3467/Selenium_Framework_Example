@@ -1,0 +1,19 @@
+2021-03-14 22:51:03,961  INFO [main] Log4jpropertiesexample:19 - browser launch
+ 2021-03-14 22:51:09,687  INFO [main] Log4jpropertiesexample:22 - URL Launched
+ 2021-03-14 22:51:09,827  INFO [main] Log4jpropertiesexample:25 - Entered User Name
+ 2021-03-14 22:51:09,958  INFO [main] Log4jpropertiesexample:27 - Entered Password
+ 2021-03-14 22:51:11,466  INFO [main] Log4jpropertiesexample:29 - Login successfully
+ 2021-03-14 22:51:11,661  INFO [main] Log4jpropertiesexample:32 - Browser Closed
+ 2021-03-14 22:54:32,932  INFO [main] Log4jpropertiesexample:19 - browser launch
+ 2021-03-14 22:54:40,263  INFO [main] Log4jpropertiesexample:22 - URL Launched
+ 2021-03-14 22:54:40,391  INFO [main] Log4jpropertiesexample:25 - Entered User Name
+ 2021-03-14 22:54:40,561  INFO [main] Log4jpropertiesexample:27 - Entered Password
+ 2021-03-14 22:54:42,527  INFO [main] Log4jpropertiesexample:29 - Login successfully
+ 2021-03-14 22:54:42,692  INFO [main] Log4jpropertiesexample:32 - Browser Closed
+ 2021-03-14 23:11:29,860  INFO [main] Log4jpropertiesexample:19 - browser launch
+ 2021-03-14 23:11:36,452  INFO [main] Log4jpropertiesexample:21 - URL Launched
+ 2021-03-14 23:11:36,594  INFO [main] Log4jpropertiesexample:23 - Entered User Name
+ 2021-03-14 23:11:36,711  INFO [main] Log4jpropertiesexample:25 - Entered Password
+ 2021-03-14 23:11:38,385  INFO [main] Log4jpropertiesexample:27 - Login successfully
+ 2021-03-14 23:11:38,641  INFO [main] Log4jpropertiesexample:30 - Browser Closed
+ 

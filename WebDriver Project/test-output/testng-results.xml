@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13779" started-at="2021-03-14T06:30:20Z" finished-at="2021-03-14T06:30:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13779" started-at="2021-03-14T06:30:20Z" finished-at="2021-03-14T06:30:33Z">
+      <class name="pageObjectModel2.PageTest2">
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:pageObjectModel2.PageTest2@2d8f65a4]" name="LoginPage" duration-ms="13752" started-at="2021-03-14T06:30:20Z" finished-at="2021-03-14T06:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+      </class> <!-- pageObjectModel2.PageTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

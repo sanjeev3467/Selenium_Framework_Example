@@ -1,0 +1,22 @@
+2021-Mar-14 22:37:18,622 [main] Log4xmlexample 
+  INFO  browser launch
+2021-Mar-14 22:37:25,082 [main] Log4xmlexample 
+  INFO  URL Launched
+2021-Mar-14 22:37:25,923 [main] Log4xmlexample 
+  INFO  Entered User Name
+2021-Mar-14 22:37:26,062 [main] Log4xmlexample 
+  INFO  Entered Password
+2021-Mar-14 22:37:28,115 [main] Log4xmlexample 
+  INFO  Login successfull
+2021-Mar-14 23:07:50,253 [main] Log4xmlexample 
+  INFO  browser launch
+2021-Mar-14 23:07:57,868 [main] Log4xmlexample 
+  INFO  URL Launched
+2021-Mar-14 23:07:58,032 [main] Log4xmlexample 
+  INFO  Entered User Name
+2021-Mar-14 23:07:58,145 [main] Log4xmlexample 
+  INFO  Entered Password
+2021-Mar-14 23:08:00,210 [main] Log4xmlexample 
+  INFO  Login successfull
+2021-Mar-14 23:08:00,434 [main] Log4xmlexample 
+  INFO  Browser Closed
